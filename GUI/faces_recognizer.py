@@ -38,6 +38,7 @@ def create_face_encodings (frame):
 	return KNOWN_FACES_ENCODINGS, len(locate_faces)
 
 def interpret_results(state, name = None):
+	# add more code
 	if state :
 		text = name
 		color = (237, 149, 100)
