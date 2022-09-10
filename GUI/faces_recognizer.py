@@ -39,6 +39,7 @@ def create_face_encodings (frame):
 
 def interpret_results(state, name = None):
 	# add more code
+	# add mỏe code 2
 	if state :
 		text = name
 		color = (237, 149, 100)
